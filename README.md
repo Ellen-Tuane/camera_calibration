@@ -1,7 +1,5 @@
-# camera_calibration
+# Camera Calibration
 Camera calibration using Opencv and chessboard
-
-References: 
 
 References:
 
